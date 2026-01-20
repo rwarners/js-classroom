@@ -24,10 +24,6 @@ const projects = [
     bug: "Als ik de checkbox voor speciale characters aanvink, zie ik deze 4 characters nooit in mijn gegenereerde wachtwoorden,maar die moeten dus wel worden gebruikt: ASCII codes 123,124,125,126 oftewel { | } ~ ",
   },
   {
-    name: "Quotes-Generator",
-    bug: "Onder de quote zou de auteur moeten staan, ik zie nu alleen maar 'undefined'",
-  },
-  {
     name: "HTML-Canvas",
     bug: "De bedoeling is dat er alleen maar wordt getekend als de muis/trackpad is ingedrukt. Dus moet stoppen met tekenen als je de muis loslaat",
   },
