@@ -16,10 +16,6 @@ const projects = [
     bug: "De kleur van de BMI cirkel klopt niet als er 'obese' uitkomt",
   },
   {
-    name: "Speed-Reader",
-    bug: "Elke keer als ik op start klik wordt de tekst sneller voorgelezen?",
-  },  
-  {
     name: "Password-Generator",
     bug: "Als ik de checkbox voor speciale characters aanvink, zie ik deze 4 characters nooit in mijn gegenereerde wachtwoorden,maar die moeten dus wel worden gebruikt: ASCII codes 123,124,125,126 oftewel { | } ~ ",
   },
